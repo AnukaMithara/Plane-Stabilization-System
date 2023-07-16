@@ -38,6 +38,3 @@ The Plane Stabilization System is an Arduino-based project that utilizes the MPU
 
 Contributions to the Plane Stabilization System project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
