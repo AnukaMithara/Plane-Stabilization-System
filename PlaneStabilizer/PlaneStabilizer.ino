@@ -73,8 +73,8 @@ void loop() {
         Serial.print("Ch1: ");
         Serial.print(CH1Value);
     }else{                                //If not get gyroscope signal
-        leftAlieron.write(x);
-        rightAlieron.write(x);
+        leftAlieron.write(180-x);
+        rightAlieron.write(180-x);
         Serial.print("Gyro x: ");
         Serial.print(x);
     }
@@ -90,5 +90,5 @@ void loop() {
         Serial.print("  Gyro y: ");
         Serial.println(y);
     }
-      delay(100);
+      delay(500);
 }
