@@ -78,7 +78,7 @@ void setup() {
     #endif
 
     // initialize serial communication
-    // (38400 chosen because it works as well at 8MHz as it does at 16MHz, but
+    // (38400 chosen because it works as well at 8MHz as it does at 16MHz, but3
     // it's really up to you depending on your project)
     Serial.begin(38400);
 
