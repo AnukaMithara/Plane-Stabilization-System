@@ -1,5 +1,13 @@
 ![image](https://github.com/AnukaMithara/Plane-Stabilization-System/assets/48363103/28fc8398-4b1f-4158-b45e-955fa606636a)
 
+
+![image](https://github.com/AnukaMithara/Plane-Stabilization-System/assets/48363103/bcc5aa80-de0f-48a8-8012-acac4c7e6536)
+
+![00000IMG_00000_BURST20230723145534722_COVER](https://github.com/AnukaMithara/Plane-Stabilization-System/assets/48363103/15201bf6-bffb-4658-8fab-ef810a9d684a)
+
+![00000IMG_00000_BURST20230723145302788_COVER](https://github.com/AnukaMithara/Plane-Stabilization-System/assets/48363103/baf5e1f0-2ceb-4ff2-80bf-f5dceaca8d4c)
+
+
 The Plane Stabilization System is an Arduino-based project that utilizes the MPU6050 sensor, transmitter, receiver, and three servo motors to achieve stability and control for a plane during flight. This project aims to address the challenge of maintaining stable flight conditions by implementing a real-time stabilization system.
 
 ## Features
