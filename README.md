@@ -31,8 +31,9 @@ The Plane Stabilization System is an Arduino-based project that utilizes the MPU
 2. Connect the MPU6050 sensor, transmitter, receiver, and servo motors to the Arduino board according to the wiring diagram provided in the repository.
 3. Open the Arduino IDE and navigate to `File > Open` to open the main Arduino sketch file (.ino file) from the downloaded repository.
 4. Ensure that you have the required libraries installed. If not, install the following libraries using the Arduino Library Manager (`Sketch > Include Library > Manage Libraries`):
-   - Servo by Arduino
-   - MPU6050 by Jeff Rowberg
+   - `Servo.h`
+   - `I2Cdev.h`
+   - `MPU6050.h`
 5. Select the appropriate board and port from the `Tools` menu in the Arduino IDE.
 6. Upload the sketch to the Arduino board.
 7. Connect a power supply to the Arduino board and ensure that the servo motors are connected properly.
